@@ -1,0 +1,47 @@
+Only start with Java Collections after you've reviewed the following repositories in order:
+
+	1- Java_Programs
+	2- JavaStreams
+	
+
+    **************** Nowadays, the trend is knowledge of Java Collections in order to pass automation interviews.****************
+    *****************************************************************************************************************************
+    *****************************************************************************************************************************
+
+	
+	The Java Collections Framework is a collection of interfaces & classes which helps in storing and processing
+	the data efficiently. This framework has several useful classes which have TONS of useful methods making
+	the programmer's task super easy.
+	
+    For example, there exists a method to delete a 5th element or add an element between the 5th and
+	the 6th one or know the index of a certain element and much more. As you can discern, these are operations
+	that can't be performed on an array that is a fixed-length data structure.
+	We're going to delve into all that in details.
+	
+	======================================================================================================================
+	Java Collections contain:
+	
+	1- List Interface. [Elements are added in order. Elements could be duplicates]
+	 
+		Implemented by the following classes:
+			- ArrayList
+			- LinkedList
+			- Vector
+			
+	
+	2- Set Interface. [The order, in which elements are added, isn't guarenteed. Can NOT contain duplicate elements]
+	
+		Implemented by the following classes:
+		    -HashSet
+			-LinkedHashSet
+			-TreeSet
+			
+	3- Map. [For mapping keys to values. can NOT contain duplicate elements]
+	
+		Implemented by the following classes:
+		    -HashMap
+		    -TreeMap
+		    -LinkedHashMap
+		    
+ As a Java learner, you need to know Java collections to realize how effective & helpful they are !
+		
